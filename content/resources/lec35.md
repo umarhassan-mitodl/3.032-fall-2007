@@ -5,6 +5,8 @@ description: Lecture slides on fatigue, how fatigue fracture initiates, characte
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/fd38c2d04b3f7208a22f1e750341a8fe_lec35.pdf
 file_size: 68827
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

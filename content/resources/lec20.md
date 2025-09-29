@@ -5,6 +5,8 @@ description: Lecture slides on plasticity in crystals, bulk amorphous metals, yi
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/1bd633873707143d7607ffb3b6d08fb6_lec20.pdf
 file_size: 47676
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

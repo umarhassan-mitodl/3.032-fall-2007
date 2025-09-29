@@ -6,6 +6,8 @@ description: Lecture slides on plasticity at surfaces, hardness testing, estimat
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/75ecba5281f60c9b957a8b42d4823d92_lec24.pdf
 file_size: 83337
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

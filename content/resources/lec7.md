@@ -6,6 +6,8 @@ description: Lecture notes on stress and strain transformations, finding stress 
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/6e90475e58ce6975b034dab5f48cc2a2_lec7.pdf
 file_size: 78258
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

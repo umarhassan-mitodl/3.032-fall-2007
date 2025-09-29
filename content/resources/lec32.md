@@ -5,6 +5,8 @@ description: Lecture slides on fracture in crystals, brittle fractures, and duct
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/72b74c78fad5000157a6b8d95b55e413_lec32.pdf
 file_size: 39143
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

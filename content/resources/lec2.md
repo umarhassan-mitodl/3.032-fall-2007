@@ -4,6 +4,8 @@ description: Lecture slides on force distributions in structures.
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/b08b5f3dbd3ac755f9035c3adae6bd43_lec2.pdf
 file_size: 19149
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

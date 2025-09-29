@@ -5,6 +5,8 @@ description: Lecture slides on deformation under force, beam bending, and end-lo
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/222911da292c25b77b09b47da533315c_lec3.pdf
 file_size: 19804
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

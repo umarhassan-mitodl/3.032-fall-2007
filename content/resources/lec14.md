@@ -5,6 +5,8 @@ description: Lecture slides on superelasticity and fluid shear viscosity as meas
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/a862820c96d66771e432cac60d5c9a02_lec14.pdf
 file_size: 37525
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

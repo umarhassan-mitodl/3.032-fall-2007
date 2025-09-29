@@ -5,6 +5,8 @@ description: Lecture slides on fatigue, fatigue fracture/failure, double-cantile
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/74746307d50177e1139bef34a7e82406_lec36.pdf
 file_size: 254405
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

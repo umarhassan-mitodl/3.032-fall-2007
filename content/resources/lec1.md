@@ -4,6 +4,8 @@ description: Lecture slides with an introduction to the course.
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/ee4f4c370bbb3d2a16f0fbfd80ebe3d0_lec1.pdf
 file_size: 207008
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
