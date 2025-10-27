@@ -33,7 +33,6 @@
     "website": "3-032-mechanical-behavior-of-materials-fall-2007"
   },
   "course_title": "Mechanical Behavior of Materials",
-  "hide_download": true,
   "course_description": "Here we will learn about the mechanical behavior of structures and materials, from the continuum description of properties to the atomistic and molecular mechanisms that confer those properties to all materials. We will cover elastic and plastic deformation, creep, and fracture of materials including crystalline and amorphous metals, ceramics, and (bio)polymers, and will focus on the design and processing of materials from the atomic to the macroscale to achieve desired mechanical behavior. Integrated laboratories provide the opportunity to explore these concepts through hands-on experiments including instrumentation of pressure vessels, visualization of atomistic deformation in bubble rafts, nanoindentation, and uniaxial mechanical testing, as well as writing assignments to communicate these findings to either general scientific or nontechnical audiences.\n",
   "department_numbers": [
     "3"
@@ -44,7 +43,6 @@
     "content": "69576551-c128-5ff0-9e41-28df0f40a9f4",
     "website": "3-032-mechanical-behavior-of-materials-fall-2007"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams",

@@ -5,8 +5,6 @@ description: Lecture slides on fatigue, Moore?s Law, and the mechanical behavior
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/ce3c6c9caadf726a41ccd0da5ddb693b_lec37.pdf
 file_size: 33285
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

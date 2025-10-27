@@ -3,8 +3,6 @@ content_type: page
 description: This section provides the three quizzes from the course, and a set of
   practice problems from Fall '06 and answers to student questions from Fall '07,
   focused on material covered in Quiz 2.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 ocw_type: CourseSection

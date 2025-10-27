@@ -4,8 +4,6 @@ description: Lecture slides on time-dependent plasticity and examples of creep f
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/4f630ca5057fffa5fc8db02180e03638_lec27.pdf
 file_size: 77218
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

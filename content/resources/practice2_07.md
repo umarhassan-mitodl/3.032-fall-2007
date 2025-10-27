@@ -5,8 +5,6 @@ description: Answers to student questions from Fall '07, focused on material cov
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/f9b0f57e5063c3c781a8f626af41fff6_practice2_07.pdf
 file_size: 79522
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

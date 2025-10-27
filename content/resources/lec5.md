@@ -5,8 +5,6 @@ description: Lecture notes on strain and stress, and choosing a cross-section fo
 file: /courses/3-032-mechanical-behavior-of-materials-fall-2007/9a1ef2fb1852adeef982ab21370f6e73_lec5.pdf
 file_size: 34330
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
